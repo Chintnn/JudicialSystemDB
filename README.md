@@ -2,9 +2,11 @@
 
 ## DBMS CA3 - Mini Project
 
+---
+
 ## Overview
 
-The **Judicial System Database** project is a comprehensive relational database designed to streamline and digitize the operations of a judicial system. It covers a wide spectrum of judicial entities and processes, including courts, cases, hearings, verdicts, police involvement, legal representatives, and appeals. By establishing strong relationships among key entities such as judges, lawyers, petitioners, respondents, police officers, and witnesses, the system facilitates efficient data organization, retrieval, and integrity.
+The **Judicial System Database** project is a comprehensive relational database designed to streamline and digitize the operations of a judicial system. It covers various judicial entities and processes, including courts, cases, hearings, verdicts, police involvement, legal representatives, and appeals. By establishing strong relationships among key entities such as judges, lawyers, petitioners, respondents, police officers, and witnesses, the system facilitates efficient data organization, retrieval, and integrity.
 
 Key objectives:
 - Seamless case tracking—from FIR filing and investigation to court hearings, verdicts, and appeals.
