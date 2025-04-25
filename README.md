@@ -1,4 +1,4 @@
-# Judicial System Database
+# Judicial Case Management System
 
 ## DBMS CA3 - Mini Project
 
